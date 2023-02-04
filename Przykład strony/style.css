@@ -1,0 +1,16 @@
+body{
+background-color: antiquewhite;
+}
+
+section{
+display: flex;
+}
+
+.secdiv{
+height: auto;
+width:auto;
+background-color: aqua;
+border: 3px black solid;
+padding: 20px;
+margin: 10px;
+}
