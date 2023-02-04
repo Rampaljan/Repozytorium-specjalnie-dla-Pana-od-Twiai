@@ -1,2 +1,4 @@
-# Repozytorium-specjalnie-dla-Pana-od-Twiai
+# repozytorium_testowe
 Jan Rampalski 1d
+Pozdrawiam serdecznie
+smacznej kawusi
